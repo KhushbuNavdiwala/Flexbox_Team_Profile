@@ -81,3 +81,13 @@
     margin: auto;
     margin-top: 5px;
 }
+
+img-text h3 {
+    margin: 10px 0;
+}
+
+img-text p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+}
