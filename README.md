@@ -24,6 +24,6 @@ images/: This folder contains the profile pictures for each team member.
 HTML5: For structuring the content.\
 CSS3: For styling and layout using Flexbox.\
 Flexbox: To create a flexible and responsive layout.
-#Demo
+# Demo
 ![image](https://github.com/user-attachments/assets/ea849082-2f34-4a31-aaa4-ce61bff6ff5f)
 
