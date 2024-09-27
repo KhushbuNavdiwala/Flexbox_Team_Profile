@@ -91,3 +91,12 @@ img-text p {
     font-weight: 400;
     line-height: 30px;
 }
+
+.single-box:hover {
+    background-color: orangered;
+    color: #fff;
+}
+
+.single-box:hover .line {
+    background-color: #fff;
+}
