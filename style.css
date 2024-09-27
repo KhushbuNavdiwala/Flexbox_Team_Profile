@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
 .box-area {
     display: -webkit-flex;
     display: -ms-flex;
@@ -60,4 +61,23 @@
 
 .single-box:nth-child(3) .img-area {
     background-image: url(images/img3.jpg);
+}
+
+.header-text {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 48px;
+}
+
+.img-text {
+    font-family: "Gowun Batang", serif;
+    padding-top: 20px;
+}
+
+.line {
+    height: 2px;
+    width: 55px;
+    background: #222;
+    margin: auto;
+    margin-top: 5px;
 }
