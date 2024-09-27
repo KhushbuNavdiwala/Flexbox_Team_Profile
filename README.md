@@ -20,3 +20,9 @@ Each card has a well-structured layout using Flexbox to align the image, name, p
 index.html: Contains the structure of the team profile page.\
 styles.css: Contains the CSS for styling the cards and layout, focusing on Flexbox for the layout.\
 images/: This folder contains the profile pictures for each team member.
+# Technologies Used
+HTML5: For structuring the content.\
+CSS3: For styling and layout using Flexbox.\
+Flexbox: To create a flexible and responsive layout.
+![image](https://github.com/user-attachments/assets/ea849082-2f34-4a31-aaa4-ce61bff6ff5f)
+
