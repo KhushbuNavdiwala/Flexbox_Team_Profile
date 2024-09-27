@@ -30,3 +30,34 @@
     transition: .3s;
     box-shadow: 1px 0 5px 0 rgba(0, 0, 0, 0.6);
 }
+
+.img-area {
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: -moz-flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    border: 6px solid #ddd;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    padding: 20px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+}
+
+.single-box:nth-child(1) .img-area {
+    background-image: url(images/img1.jpg);
+}
+
+.single-box:nth-child(2) .img-area {
+    background-image: url(images/img2.jpg);
+}
+
+.single-box:nth-child(3) .img-area {
+    background-image: url(images/img3.jpg);
+}
