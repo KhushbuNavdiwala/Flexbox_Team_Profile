@@ -8,11 +8,15 @@ Profile Card: Each card contains the following details about a team member:\
 Profile Picture: A circular image of the team member.\
 Name: The name of the team member.\
 Position: The role or position of the team member in the team.\
-Description: A short bio or description about the member.\
+Description: A short bio or description about the member.
 # Key Features
 Flexbox Layout:\
 The cards are aligned in a column using Flexbox (display: flex).\
-They automatically wrap to the next line if the screen is too small using flex-wrap: wrap.\
+They automatically wrap to the next line if the screen is too small using flex-wrap: wrap.
 # Responsive Design:
 The layout adapts to different screen sizes by adjusting the size and arrangement of the cards.\
-Each card has a well-structured layout using Flexbox to align the image, name, position, and description.\
+Each card has a well-structured layout using Flexbox to align the image, name, position, and description.
+# File Structure
+index.html: Contains the structure of the team profile page.\
+styles.css: Contains the CSS for styling the cards and layout, focusing on Flexbox for the layout.\
+images/: This folder contains the profile pictures for each team member.
